@@ -1,4 +1,5 @@
 {
+  
   "name": "edacy-backend",
   "version": "0.0.1",
   "description": "",
@@ -73,5 +74,8 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
+  },
+  "engines": {
+    "node": "14.17.4"
   }
 }
